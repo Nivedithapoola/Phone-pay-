@@ -89,3 +89,6 @@ This project demonstrates the ability to perform end-to-end EDA:
 from data inspection and cleaning to insight generation and visualization.
 It highlights strong skills in Python, data analysis, and analytical
 thinking, making it suitable for Data Analyst and Business Analyst roles.
+
+[phonepe-pulse_raw-data_q12018-to-q22021-v0-1-5-1720351752.xlsx](https://github.com/user-attachments/files/24994574/phonepe-pulse_raw-data_q12018-to-q22021-v0-1-5-1720351752.xlsx)
+
